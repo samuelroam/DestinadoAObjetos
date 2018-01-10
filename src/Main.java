@@ -18,8 +18,6 @@ public class Main {
 	 */
 	public static void main(String[] args){
 
-		Trabajador t = new Trabajador("Mikel", "34343434i", 1300);
-		t.mostrarInfo();
-		
+		Coche coche = new Coche ("ford");
 }
 }
